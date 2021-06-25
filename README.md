@@ -1,1 +1,1 @@
-# Grokking-the-Coding-interview-patterms
+# Grokking The Coding Interview Patterns for Coding Questions
